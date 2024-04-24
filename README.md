@@ -4,7 +4,7 @@ Artificial Intelligence System for Detection and Screening of Cardiac Abnormalit
 Article:[AI ECG Image System](https://arxiv.org/abs/2302.10301) \
 Cite:Zhang, D., Geng, S., Zhou, Y., Xu, W., Wei, G., Wang, K., ... & Hong, S. (2023). Artificial intelligence system for detection and screening of cardiac abnormalities using electrocardiogram images. arXiv preprint arXiv:2302.10301.
 
-Screening Tool for Paroxysmal Atrial Fibrillation Based on a Deep-Learning Algorithm Using Printed 12-Lead Electrocardiographic Records during Sinus Rhythm
+Screening Tool for Paroxysmal Atrial Fibrillation Based on a Deep-Learning Algorithm Using Printed 12-Lead Electrocardiographic Records during Sinus Rhythm \
 Article:TBD \
 Cite:TBD
 
